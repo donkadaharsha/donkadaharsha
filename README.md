@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Donkada Harsha Vardhan. You can call me Harsha.</h1>
+<h1 align="center">Hi 👋, I'm Donkada Harsha Vardhan..</h1>
 <h3 align="center">My interests are software development, cyber security, distributed systems and cloud technologies.</h3>
 
 - 🔭 I’m currently working on **Java, AWS, React and Python.**
