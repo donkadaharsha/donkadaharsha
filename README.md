@@ -132,4 +132,3 @@ Here's a categorized version of the tools and languages:
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a>
 </p>
-[![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=donkadaharsha)](https://github.com/donkadaharsha/github-readme-stats)
