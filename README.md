@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: **404 - Looking for a job.**
 
-![donkadaharsha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donkadaharsha&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&card_width=1000)
+![donkadaharsha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donkadaharsha&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&card_width=700)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
