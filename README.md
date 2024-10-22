@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **harsha.donkada@gmail.com**
 
-- ⚡ Fun fact **404 - Looking for a job.**
+- ⚡ Fun fact: **404 - Looking for a job.**
 
 ![donkadaharsha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donkadaharsha&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
