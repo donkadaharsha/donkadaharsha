@@ -17,6 +17,9 @@
 
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://linkedin.com/in/harsha-vardhan-donkada/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/harsha-vardhan-donkada/" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -111,7 +114,7 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit_learn" width="60" height="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/>
   </a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="60" height="60"/>
