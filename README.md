@@ -124,5 +124,4 @@
 </p>
 
 
-
-![donkadaharsha's Stats](https://github-readme-stats.vercel.app/api?username=donkadaharsha&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![donkadaharsha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donkadaharsha&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
