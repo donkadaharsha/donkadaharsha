@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go, React Native, Langchain and LLMs.**
 
-- 👯 I’m looking to collaborate on **building a highly scalable project.**
+- 👯 I’m looking to collaborate on **building a highly scalable & secure project.**
 
 - 👨‍💻 All of my projects are available at [github.com/donkadaharsha](github.com/donkadaharsha)
 
