@@ -1,17 +1,6 @@
-<h1 align="center">Hi 👋, I'm Donkada Harsha Vardhan..</h1>
-<h3 align="center">My interests are software development, cyber security, distributed systems and cloud technologies.</h3>
+<h1 align="center">Hi 👋, I'm Harsha </h1>
 
-- 🔭 I’m currently working on **Java, AWS, React and Python.**
 
-- 🌱 I’m currently learning **Go, React Native, Langchain and LLMs.**
-
-- 👯 I’m looking to collaborate on **building a highly scalable & secure project.**
-
-- 👨‍💻 All of my projects are available at [github.com/donkadaharsha](github.com/donkadaharsha)
-
-- 📫 How to reach me **harsha.donkada@gmail.com**
-
-- ⚡ Fun fact: **404 - Looking for a job.**
 
 ![donkadaharsha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donkadaharsha&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
