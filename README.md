@@ -2,7 +2,7 @@
 <h3 align="center">Security Engineer | Cloud Security | Application Security | Security Automation</h3>
 
 <p align="center">
-Security Engineer with 5+ years of experience across application security, cloud security, vulnerability management, incident response, and security automation. Focused on building scalable security solutions, conducting architecture reviews, and driving measurable risk reduction across AWS, Azure, and GCP.
+Security Engineer with 5+ years of experience across application security, cloud security, vulnerability management, incident response, and security automation. Focused on building scalable security solutions, conducting architecture reviews, and driving measurable risk reduction across web applications, cloud & hybrid network architecture and 3rd party vendor engagements. 
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ Threat Modeling • Secure Architecture Reviews • Secure SDLC • Code Reviews
 
 **Cloud Security**
 
-AWS • Azure • GCP • CloudTrail • GuardDuty • Security Hub • Cloud IAM
+AWS • Azure • GCP • Wiz 
 
 **Identity & Access Management**
 
