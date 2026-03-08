@@ -11,17 +11,6 @@ Security Engineer with 5+ years of experience across application security, cloud
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=donkadaharsha&theme=vue-dark&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donkadaharsha&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
-</p>
 
 ---
 
