@@ -83,7 +83,7 @@ TCP/IP • DNS • VPN • Secure Network Architecture • Hybrid Cloud Connecti
 
 **Detection & Monitoring**
 
-Splunk • SIEM Platforms • Log Analysis • Alerting
+Splunk • CrowdStrike • Log Analysis • Alerting
 
 **Cloud Security**
 
